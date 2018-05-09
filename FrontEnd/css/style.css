@@ -42,6 +42,11 @@
     padding-top: 30px;padding-bottom: 30px; 
 }
 
+.footer {
+    padding-bottom: 5px; 
+    padding-top: 5px;
+}
+
 #book {
     color:#262626; background: rgba(255, 255, 255, .5);
 }
@@ -49,3 +54,4 @@
 #facillities {
     color:white; background-color:  #4d4d4d;
 }
+
